@@ -1,0 +1,58 @@
+ -------------------wallet wallet-------------------
+Wallet andres
+
+Wallet generated:
+ - Address  : mkeJeo5zGmwcm1Hm4gKWCh1CpSiVQ6tAJK,
+ - Key : cTF3Ckxtyx1eQk5WfBrDN2utp8MiaxrRQnj2R3xwZff7y7SkAEGt, 
+ - Mnemonic : audit valley analyst follow rural buzz yard canal stick east rack leisure
+
+
+
+Wallet leyner
+Wallet generated:
+ - Address  : ms2sdSiNsLTfJ9B2hSG9sbDkByhjsNAyjd,
+ - Key : cVvwY3v4AegKAJiagGRVUg9dgTrYbMj1nssJVomTXECeGhmMTCVo, 
+ - Mnemonic : atom ritual palm camera zone absorb else crunch sausage festival render home
+ 
+
+Andres
+ -------------------ethereum wallet-------------------
+{
+  account: {
+    address: '0x97fea03141830c07b789B58bf9AA516ca2633e52',
+    privateKey: '0xe15ac0a544b81af9250598995d2c38dd47bc8f2af27ecaac0e61586ea5ee61b3',
+    signTransaction: [Function: signTransaction],
+    sign: [Function: sign],
+    encrypt: [Function: encrypt]
+  },
+  wallet: {
+    address: '0x97fea03141830c07b789B58bf9AA516ca2633e52',
+    privateKey: '0xe15ac0a544b81af9250598995d2c38dd47bc8f2af27ecaac0e61586ea5ee61b3',
+    signTransaction: [Function: signTransaction],
+    sign: [Function: sign],
+    encrypt: [Function: encrypt],
+    index: 0
+  },
+  keystore: 'L1RNzaQvrBJe4ci6n2ksTCdR523GeQvAaiYcL79sP7wAkBfikzqY'
+}
+
+Leyner
+------------------------------------------------------------------
+{
+  account: {
+    address: '0x1cBD6c83c79887F36e50d7D7DED6e9BE57caC2B0',
+    privateKey: '0x40e74de4bb31c9d7feb18c98905edcaee8397d24c25ec49446f5b204c9a78ccb',
+    signTransaction: [Function: signTransaction],
+    sign: [Function: sign],
+    encrypt: [Function: encrypt]
+  },
+  wallet: {
+    address: '0x1cBD6c83c79887F36e50d7D7DED6e9BE57caC2B0',
+    privateKey: '0x40e74de4bb31c9d7feb18c98905edcaee8397d24c25ec49446f5b204c9a78ccb',
+    signTransaction: [Function: signTransaction],
+    sign: [Function: sign],
+    encrypt: [Function: encrypt],
+    index: 0
+  },
+  keystore: 'L1RNzaQvrBJe4ci6n2ksTCdR523GeQvAaiYcL79sP7wAkBfikzqY'
+}
